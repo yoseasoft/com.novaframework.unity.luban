@@ -1,4 +1,4 @@
-﻿## NovaFramework - Unity 工程插件
+## NovaFramework - Unity 工程插件
 
 NovaFramework的Luban插件，提供配置数据相关的功能接口。
 
